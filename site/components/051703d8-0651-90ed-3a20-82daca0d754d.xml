@@ -18,6 +18,13 @@
 	<description_html>&lt;p&gt;1A&lt;/p&gt;</description_html>
 	<updateDate_dt/>
 	<updateDate_dt_tz>UTC</updateDate_dt_tz>
+	</item>	<item>	<heading_s>1A.b</heading_s>
+	<description_html>&lt;p&gt;1A.b&lt;/p&gt;</description_html>
+	<affectedFiles_o item-list="true"/>
+	<addDividerLine_b>true</addDividerLine_b>
+	<changeDocs_o item-list="true"/>
+	<updateDate_dt/>
+	<updateDate_dt_tz>UTC</updateDate_dt_tz>
 	</item>	<item>	<heading_s>1B</heading_s>
 	<description_html>&lt;p&gt;1B&lt;/p&gt;</description_html>
 	<affectedFiles_o item-list="true"/>
@@ -49,6 +56,6 @@
 	</item></repeatingGroup_o>
 	<createdDate>2023-03-15T20:51:10.612Z</createdDate>
 	<createdDate_dt>2023-03-15T20:51:10.612Z</createdDate_dt>
-	<lastModifiedDate>2023-03-15T20:53:30.340Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-03-15T20:53:30.340Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-03-15T21:41:54.319Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-03-15T21:41:54.319Z</lastModifiedDate_dt>
 </component>
