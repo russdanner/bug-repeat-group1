@@ -25,14 +25,20 @@
 	<folder-name/>
 	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2023-03-15T13:17:19.943Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-03-15T13:17:19.943Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-03-15T13:20:57.391Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-03-15T13:20:57.391Z</lastModifiedDate_dt>
 	<title_t>Hello!</title_t>
 	<disabled>false</disabled>
 	<entries_o item-list="true">	<item>	<myRTE_html>&lt;p&gt;Position 1&lt;/p&gt;</myRTE_html>
 	<myItems_o item-list="true"/>
+	<anotherField_s/>
+	<checked_b>false</checked_b>
+	<moreFiles_o item-list="true"/>
 	</item>	<item>	<myRTE_html>&lt;p&gt;1a&lt;/p&gt;</myRTE_html>
 	<myItems_o item-list="true"/>
+	<anotherField_s/>
+	<checked_b>false</checked_b>
+	<moreFiles_o item-list="true"/>
 	</item>	<item>	<myRTE_html>&lt;p&gt;Position 2&lt;/p&gt;</myRTE_html>
 	<myItems_o item-list="true">	<item datasource="files">	<key>/static-assets/files/2.jpeg</key>
 	<value>/static-assets/files/2.jpeg</value>
@@ -40,6 +46,24 @@
 	<fileSize_smv>35976</fileSize_smv>
 	<include>/static-assets/files/2.jpeg</include>
 	</item></myItems_o>
+	<anotherField_s/>
+	<checked_b>false</checked_b>
+	<moreFiles_o item-list="true"/>
+	</item>	<item>	<myRTE_html>&lt;p&gt;2A.1&lt;/p&gt;</myRTE_html>
+	<myItems_o item-list="true">	<item datasource="files">	<key>/static-assets/files/2.jpeg</key>
+	<value>/static-assets/files/2.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>35976</fileSize_smv>
+	<include>/static-assets/files/2.jpeg</include>
+	</item></myItems_o>
+	<anotherField_s>blah</anotherField_s>
+	<checked_b>true</checked_b>
+	<moreFiles_o item-list="true">	<item datasource="files">	<key>/static-assets/files/2.jpeg</key>
+	<value>/static-assets/files/2.jpeg</value>
+	<fileType_smv>jpeg</fileType_smv>
+	<fileSize_smv>35976</fileSize_smv>
+	<include>/static-assets/files/2.jpeg</include>
+	</item></moreFiles_o>
 	</item>	<item>	<myRTE_html>&lt;p&gt;2A&lt;/p&gt;</myRTE_html>
 	<myItems_o item-list="true">	<item datasource="files">	<key>/static-assets/files/1.jpeg</key>
 	<value>/static-assets/files/1.jpeg</value>
@@ -47,6 +71,9 @@
 	<fileSize_smv>27210</fileSize_smv>
 	<include>/static-assets/files/1.jpeg</include>
 	</item></myItems_o>
+	<anotherField_s/>
+	<checked_b>false</checked_b>
+	<moreFiles_o item-list="true"/>
 	</item>	<item>	<myRTE_html>&lt;p&gt;Position 3&lt;/p&gt;</myRTE_html>
 	<myItems_o item-list="true">	<item datasource="files">	<key>/static-assets/files/1.jpeg</key>
 	<value>/static-assets/files/1.jpeg</value>
@@ -54,7 +81,13 @@
 	<fileSize_smv>27210</fileSize_smv>
 	<include>/static-assets/files/1.jpeg</include>
 	</item></myItems_o>
+	<anotherField_s/>
+	<checked_b>false</checked_b>
+	<moreFiles_o item-list="true"/>
 	</item>	<item>	<myRTE_html>&lt;p&gt;Position 4&lt;/p&gt;</myRTE_html>
 	<myItems_o item-list="true"/>
+	<anotherField_s/>
+	<checked_b>false</checked_b>
+	<moreFiles_o item-list="true"/>
 	</item></entries_o>
 </page>
